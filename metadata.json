@@ -1,0 +1,7 @@
+{
+  "name": "QwertyDeveloper - Ahmed Mahfouz Portfolio",
+  "description": "A sleek, minimalist, Apple-inspired personal portfolio featuring high-end animations, glassmorphism, and an integrated Gemini-powered AI assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
